@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Kids-Canvas.Service/1.0.0": {
+        "dependencies": {
+          "Kids-Canvas.Core": "1.0.0"
+        },
+        "runtime": {
+          "Kids-Canvas.Service.dll": {}
+        }
+      },
+      "Kids-Canvas.Core/1.0.0": {
+        "runtime": {
+          "Kids-Canvas.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kids-Canvas.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Kids-Canvas.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

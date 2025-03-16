@@ -1,0 +1,15 @@
+C:\Users\user1\Documents\כבי\תשפה\net core\FullstackProject\Api-KidsCanvas-1\Api-Kids-Canvas\Kids-Canvas.Service\bin\Debug\net6.0\Kids-Canvas.Service.deps.json
+C:\Users\user1\Documents\כבי\תשפה\net core\FullstackProject\Api-KidsCanvas-1\Api-Kids-Canvas\Kids-Canvas.Service\bin\Debug\net6.0\Kids-Canvas.Service.dll
+C:\Users\user1\Documents\כבי\תשפה\net core\FullstackProject\Api-KidsCanvas-1\Api-Kids-Canvas\Kids-Canvas.Service\bin\Debug\net6.0\Kids-Canvas.Service.pdb
+C:\Users\user1\Documents\כבי\תשפה\net core\FullstackProject\Api-KidsCanvas-1\Api-Kids-Canvas\Kids-Canvas.Service\bin\Debug\net6.0\Kids-Canvas.Core.dll
+C:\Users\user1\Documents\כבי\תשפה\net core\FullstackProject\Api-KidsCanvas-1\Api-Kids-Canvas\Kids-Canvas.Service\bin\Debug\net6.0\Kids-Canvas.Core.pdb
+C:\Users\user1\Documents\כבי\תשפה\net core\FullstackProject\Api-KidsCanvas-1\Api-Kids-Canvas\Kids-Canvas.Service\obj\Debug\net6.0\Kids-Canvas.Service.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\כבי\תשפה\net core\FullstackProject\Api-KidsCanvas-1\Api-Kids-Canvas\Kids-Canvas.Service\obj\Debug\net6.0\Kids-Canvas.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\כבי\תשפה\net core\FullstackProject\Api-KidsCanvas-1\Api-Kids-Canvas\Kids-Canvas.Service\obj\Debug\net6.0\Kids-Canvas.Service.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\כבי\תשפה\net core\FullstackProject\Api-KidsCanvas-1\Api-Kids-Canvas\Kids-Canvas.Service\obj\Debug\net6.0\Kids-Canvas.Service.AssemblyInfo.cs
+C:\Users\user1\Documents\כבי\תשפה\net core\FullstackProject\Api-KidsCanvas-1\Api-Kids-Canvas\Kids-Canvas.Service\obj\Debug\net6.0\Kids-Canvas.Service.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\כבי\תשפה\net core\FullstackProject\Api-KidsCanvas-1\Api-Kids-Canvas\Kids-Canvas.Service\obj\Debug\net6.0\Kids-Canvas.Service.csproj.CopyComplete
+C:\Users\user1\Documents\כבי\תשפה\net core\FullstackProject\Api-KidsCanvas-1\Api-Kids-Canvas\Kids-Canvas.Service\obj\Debug\net6.0\Kids-Canvas.Service.dll
+C:\Users\user1\Documents\כבי\תשפה\net core\FullstackProject\Api-KidsCanvas-1\Api-Kids-Canvas\Kids-Canvas.Service\obj\Debug\net6.0\refint\Kids-Canvas.Service.dll
+C:\Users\user1\Documents\כבי\תשפה\net core\FullstackProject\Api-KidsCanvas-1\Api-Kids-Canvas\Kids-Canvas.Service\obj\Debug\net6.0\Kids-Canvas.Service.pdb
+C:\Users\user1\Documents\כבי\תשפה\net core\FullstackProject\Api-KidsCanvas-1\Api-Kids-Canvas\Kids-Canvas.Service\obj\Debug\net6.0\ref\Kids-Canvas.Service.dll
